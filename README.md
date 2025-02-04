@@ -22,7 +22,7 @@ The game also includes a login system with a database, allowing players to save 
 📌 Levels & World Design
 
     🌍 Tilemap-Based Level Design – Efficient and scalable environment creation.
-    📜 2 Fully Designed Levels – Increasing difficulty with varied enemy placement and obstacles.
+    📜 3 Fully Designed Levels – Increasing difficulty with varied enemy placement and obstacles.
 
 📊 Database & Save System
 
